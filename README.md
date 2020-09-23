@@ -14,7 +14,7 @@ A niche looking zen mode task manager that enables you to be completely focused 
 
 ---
 ## You can filter through your tasks super fast as you type along (no reload needed)
-<video width="700" height="400" autoplay> <source src="./resources/filter.mp4" type="video/mp4"> Your browser doesn't support this </video>
+<video src="./resources/filter.mp4" type="video/mp4" width="700" height="400" autoplay></video>
 
 ---
 ## You clear all tasks at once by clicking `Clear Tasks` Button
